@@ -1,11 +1,10 @@
 package testProject;
 
-public class HelloWorld {
+public class PrintName {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("SUSHANT SHRESTHA!!");
-
+      System.out.println("SUSHANT SHRESTHA");
 	}
 
 }
