@@ -1,4 +1,4 @@
-//to declare variables a2+2ab+b2
+//Write a program in java to declare the variables needed and then evaluate the expressions given below.a2+2ab+b2 and (a5 + (b4 * c3) + d2 * e)
 package testProject;
 
 import java.util.Scanner;
